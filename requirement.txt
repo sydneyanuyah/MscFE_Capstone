@@ -1,0 +1,12 @@
+# This document shows require python libraries to be installed and loaded for smooth runing of this model and specific instruction how this program should be executed
+Required Python lybraries
+a. python-binance
+b. pandas
+c. json
+d. os
+e. math
+f. numpy
+g. datetime 
+h. matplotlib
+i. seaborn as sns
+j. pandas_datareader
